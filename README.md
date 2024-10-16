@@ -3,7 +3,14 @@
 ## Giới Thiệu
 
 Tôi sẽ xây dựng một công cụ phân tích và chat với dữ liệu hữu ích và tiện lợi tên là **DA_GROQ** (Data Analysis GROQ). Công cụ này sử dụng các mô hình ngôn ngữ lớn (LLMs) để hỗ trợ việc thao tác và phân tích dữ liệu thông qua giao diện đàm thoại. Dự án này sử dụng Python, Langchain, Streamlit, PyGWalker, và GROQ API để tạo ra một ứng dụng web tương tác, cho phép người dùng tải lên dữ liệu, đặt câu hỏi, khám phá dữ liệu và nhận được các phân tích chi tiết.
-
+## TỔNG QUAN
+## Chat_PDF
+![vs_data](https://github.com/user-attachments/assets/92c93ff9-50b9-4721-b913-2d35db037a98)
+## Data Analysis 
+![data](https://github.com/user-attachments/assets/e90b2d4a-24c5-46b7-ae0f-a99d1e58bdb7)
+## Data Visualization
+![data_csv](https://github.com/user-attachments/assets/a5a38a31-ec36-45fc-b440-709c1f0c189b)
+![chat_pdf](https://github.com/user-attachments/assets/9b33c9f1-56eb-47e9-910b-ba4afd8d0893)
 ## VIDEO DEMO
 https://github.com/user-attachments/assets/0d269c1f-67d4-45dc-8ce2-1e4e0dadfb66
 ## Nội Dung
