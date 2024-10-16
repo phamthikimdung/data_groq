@@ -4,6 +4,9 @@
 
 Tôi sẽ xây dựng một công cụ phân tích và chat với dữ liệu hữu ích và tiện lợi tên là **DA_GROQ** (Data Analysis GROQ). Công cụ này sử dụng các mô hình ngôn ngữ lớn (LLMs) để hỗ trợ việc thao tác và phân tích dữ liệu thông qua giao diện đàm thoại. Dự án này sử dụng Python, Langchain, Streamlit, PyGWalker, và GROQ API để tạo ra một ứng dụng web tương tác, cho phép người dùng tải lên dữ liệu, đặt câu hỏi, khám phá dữ liệu và nhận được các phân tích chi tiết.
 
+## Overview
+
+
 ## Nội Dung
 
 ### 1. Giới Thiệu về DA_GROQ
