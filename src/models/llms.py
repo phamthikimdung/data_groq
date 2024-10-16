@@ -1,7 +1,7 @@
 from langchain_groq import ChatGroq
 import os
 
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "your_groq_api_key"
 def load_llm(model_name):
 
     if model_name == "llama-3.1-70b-versatile":

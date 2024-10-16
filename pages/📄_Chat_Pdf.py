@@ -13,7 +13,7 @@ from langchain.memory import ConversationBufferMemory
 
 # Load environment variables
 load_dotenv()
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "your_groq_api_key"
 
 def load_llm():
     return ChatGroq(
